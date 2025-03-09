@@ -2,7 +2,7 @@
 
 A beautiful VS Code extension for visualizing and editing JSON files.
 
-![JSON Maestro Icon](https://raw.githubusercontent.com/kbukamusoke/JSON-Maestro/main/images/icon-128.png)
+![JSON Maestro Icon](https://raw.githubusercontent.com/kibukamusoke/JSON-Maestro/refs/heads/main/images/icon-128.png)
 
 [![Buy Me A Beer](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=🍻&slug=trevorsuna&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/trevorsuna)
 
@@ -101,4 +101,5 @@ Initial release of JSON Maestro
 - Interactive JSON editing capabilities
 - Add property/item functionality
 - Search and navigation features
+
 # JSON-Maestro
